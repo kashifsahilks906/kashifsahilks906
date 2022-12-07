@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI.
 - 💞️ I am doing BS in Artificial Intelleligence from FAST(National University of Computer and Emerging Sciences).
 - 📫 I like to chase new challenges.
+-     Website:https://kashifkhanks.wordpress.com/
 
 <!---
 kashifsahilks906/kashifsahilks906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
