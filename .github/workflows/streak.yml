@@ -1,0 +1,36 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # runs every 6 hours
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: kashifsahilks906
+          background: ffffff
+          border: ffffff
+          stroke: ffffff
+          ring: D85A30
+          fire: D85A30
+          currStreakNum: D85A30
+          currStreakLabel: D85A30
+          sideNums: D85A30
+          sideLabels: D85A30
+          dates: 24292f
+          hide_border: true
+          type: svg
+          output: streak.svg
+
+      - name: Commit and push the generated SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git commit -m "Update streak stats" || echo "No changes to commit"
+          git push
