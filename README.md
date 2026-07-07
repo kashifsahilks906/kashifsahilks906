@@ -46,13 +46,14 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 ---
 ## 📊 GITHUB STATS
 
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kashifsahilks906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kashifsahilks906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kashifsahilks906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff&title_color=D85A30&icon_color=D85A30&text_color=24292f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kashifsahilks906&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffffff&title_color=D85A30&text_color=24292f" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifsahilks906&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kashifsahilks906&background=ffffff&border=ffffff&stroke=ffffff&ring=D85A30&fire=D85A30&currStreakNum=D85A30&currStreakLabel=D85A30&sideNums=D85A30&sideLabels=D85A30&dates=24292f&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
