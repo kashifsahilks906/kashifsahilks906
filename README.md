@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Kashif Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=AI Engineer;Computer Vision Researcher;Generative AI Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Researcher;Generative+AI+Developer" />
+</p>
 
 ---
 
@@ -8,6 +10,7 @@
 
 I'm a passionate developer with diverse interests spanning Artificial Intelligence, Machine Learning, Computer Vision, NLP, LLMs and Agentic AI.
 
+- 💼 Associate AI Engineer at Bahria Town Karachi
 - 🔭 Currently learning and building AI-powered applications, RAG systems and intelligent agents
 - 🎮 Building AI projects
 - 🤖 Exploring LLMs and Agentic AI
@@ -36,23 +39,20 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🏆 HIGHLIGHTS
 
-## 🏆 HIGHLIGHTS
-
 | 🚀 Production AI | 👁️ Computer Vision | 🤖 LLM & RAG | 🏥 Healthcare AI |
 |---|---|---|---|
 | Containerized and deployed ML applications on AWS using Docker and ECS Fargate. | Built object detection and image analysis solutions using YOLO and Deep Learning. | Working with Large Language Models, Retrieval-Augmented Generation, and AI Agents. | Developed disease prediction systems and fetal ultrasound analysis solutions. |
 
 ---
-
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashifsahilks906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifsahilks906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kashifsahilks906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kashifsahilks906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kashifsahilks906&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifsahilks906&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 ---
