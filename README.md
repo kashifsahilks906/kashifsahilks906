@@ -53,7 +53,7 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kashifsahilks906&background=ffffff&border=ffffff&stroke=ffffff&ring=D85A30&fire=D85A30&currStreakNum=D85A30&currStreakLabel=D85A30&sideNums=D85A30&sideLabels=D85A30&dates=24292f&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kashifsahilks906&background=ffffff&border=ffffff&stroke=ffffff&ring=D85A30&fire=D85A30&currStreakNum=D85A30&currStreakLabel=D85A30&sideNums=D85A30&sideLabels=D85A30&dates=24292f&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 ---
