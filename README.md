@@ -59,7 +59,11 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/kashifsahilks906/kashifsahilks906/raw/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kashifsahilks906/kashifsahilks906/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kashifsahilks906/kashifsahilks906/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/kashifsahilks906/kashifsahilks906/raw/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
