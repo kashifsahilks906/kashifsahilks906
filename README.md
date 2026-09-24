@@ -8,15 +8,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer with diverse interests spanning Artificial Intelligence, Machine Learning, Computer Vision, NLP, LLMs and Agentic AI.
+I'm an **AI Engineer** focused on building intelligent systems around **Generative AI, LLMs, Agentic AI, Knowledge Graphs, Context Engineering, and Machine Learning**.
 
-- 💼 Associate AI Engineer at Bahria Town Karachi
-- 🔭 Currently learning and building AI-powered applications, RAG systems and intelligent agents
-- 🎮 Building AI projects
-- 🤖 Exploring LLMs and Agentic AI
-- 📱  Exploring MLOps and model deployment
-- 💼 Open to collaboration and opportunities
-- 🧠 Interested in: Computer Vision, Large Language Models, Generative AI
+My current work involves building systems that enable AI agents to **retrieve, structure, reason over, and utilize contextual information and persistent memory**.
+
+* 💼 Currently **AI Engineer** at **Codet**
+* 🧠 Working on knowledge graph-based systems for context and persistent memory
+* 🤖 Building LLM-powered applications and agentic systems
+* 🔗 Working with RAG, context engineering, prompt compilation, and memory retrieval
+* 🧩 Exploring ontology-driven knowledge representation and reasoning
+* 📊 Working on evaluation and benchmarking of AI systems and agent behavior
+* ⚙️ Building production AI infrastructure and backend systems with Python
+* 🗄️ Working with relational databases, graph-oriented data, and vector-based retrieval
+* 👁️ Background in Computer Vision, Deep Learning, and traditional Machine Learning
+* 🤝 Open to collaboration and interesting AI engineering opportunities
 
 ---
 
